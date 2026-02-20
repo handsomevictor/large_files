@@ -4,71 +4,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="310" width="680" height="270" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-222.5" y="310" width="672.5" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-2" target="qPIgItYMZ2e56KSig7UQ-3">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-2" target="qPIgItYMZ2e56KSig7UQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-2" target="qPIgItYMZ2e56KSig7UQ-4">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-2" target="qPIgItYMZ2e56KSig7UQ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Monitoring&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="80" width="110" height="40" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Monitoring&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="21.25" y="30" width="151.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-3" target="qPIgItYMZ2e56KSig7UQ-8">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-3" target="qPIgItYMZ2e56KSig7UQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-3" value="OPS Monitoring" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-107.5" y="170" width="110" height="40" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-3" value="OPS Monitoring" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="110" width="128.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-4" value="Tech Monitoring" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="170" width="110" height="40" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-4" value="Tech Monitoring" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="115" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-8" value="Structure" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="250" width="115" height="30" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-8" value="Structure" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-141" y="200" width="131.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-10" target="qPIgItYMZ2e56KSig7UQ-18">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-10" target="qPIgItYMZ2e56KSig7UQ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-10" value="InfluxDB as Database (open source)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2.5" y="331" width="140" height="50" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-10" value="InfluxDB as Database (open source)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="33.75" y="350.5" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-11" target="qPIgItYMZ2e56KSig7UQ-20">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-11" target="qPIgItYMZ2e56KSig7UQ-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-11" value="Scripts" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="331" width="140" height="50" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-11" value="Scripts" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-177.5" y="350.5" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-12" target="qPIgItYMZ2e56KSig7UQ-24">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-12" target="qPIgItYMZ2e56KSig7UQ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-12" value="Grafana - Purely for Visualization &amp;amp; Alert management - It doesn&#39;t do any complex calculation" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="331" width="160" height="89" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-12" value="Grafana - Purely for Visualization &amp;amp; Alert management - It doesn&#39;t do any complex calculation" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="230" y="331" width="160" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-8" target="qPIgItYMZ2e56KSig7UQ-13">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-8" target="qPIgItYMZ2e56KSig7UQ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-16" value="Ops team only has access to Tech Grafana Dashboard" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="160" height="60" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-16" value="Ops team only has access to Tech Grafana Dashboard" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-4" target="qPIgItYMZ2e56KSig7UQ-16">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-4" target="qPIgItYMZ2e56KSig7UQ-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-18" target="qPIgItYMZ2e56KSig7UQ-12">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-18" target="qPIgItYMZ2e56KSig7UQ-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-18" value="We save monitoring metrics in InfluxDB, and let Grafana query it" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3.75" y="470" width="137.5" height="60" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-18" value="We save monitoring metrics in InfluxDB, and let Grafana query it" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="35" y="583.5" width="137.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="qPIgItYMZ2e56KSig7UQ-20" target="qPIgItYMZ2e56KSig7UQ-10">
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" parent="1" source="qPIgItYMZ2e56KSig7UQ-20" target="qPIgItYMZ2e56KSig7UQ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-20" value="For each product monitor, we develop scripts that query Kaiko endpoints, process the returned data, and subsequently store the results in InfluxDB" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-222.5" y="420" width="185" height="114" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-20" value="For each product monitor, we develop scripts that query Kaiko endpoints, process the returned data, and subsequently store the results in InfluxDB" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="556.5" width="185" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="qPIgItYMZ2e56KSig7UQ-24" value="Grafana queries data from InfluxDB and visualizes the results in panels and dashboards. It also supports alerting; when an alert condition is met, notifications are sent to Slack" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="443.5" width="205" height="113" as="geometry" />
+        <mxCell id="qPIgItYMZ2e56KSig7UQ-24" value="Grafana queries data from InfluxDB and visualizes the results in panels and dashboards. It also supports alerting; when an alert condition is met, notifications are sent to Slack" style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="220" y="550" width="205" height="113" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
